@@ -28,4 +28,5 @@ Hosted example:
 
 ## Shout out to
 
-![Pexels](https://images.pexels.com/lib/api/pexels.png)
+![https://www.pexels.com/](https://images.pexels.com/lib/api/pexels.png)
+![https://www.netlify.com/](https://kollitsch.dev/blog/2023/netlifys-new-logo/header_hu908b72d00b7cf365062f7338efd98fef_20461_914x457_fit_lanczos_3.png)
